@@ -27,7 +27,7 @@ function reloadSlider(){
 
     
 }
-
+// 
 dots.forEach((li, key) => {
     li.addEventListener('click', ()=>{
          active = key;
